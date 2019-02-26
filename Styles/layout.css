@@ -1,0 +1,24 @@
+body{
+   margin:0;
+   padding:0
+}
+button{
+    font-size: 16px;
+    background: transparent;
+    border:1px solid red;
+    padding:10px;
+    border-radius:9px;
+    margin:5px;
+}
+#container , #main-cont {
+    padding: 10px;
+    margin: 10px;
+    background: gray;
+}
+input {
+    padding: 8px 15px;
+    font-size: 16px;
+    border-radius: 6px;
+    margin: 5px;
+    width: 200px; 
+}
